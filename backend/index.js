@@ -16,7 +16,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());  
 app.use(express.json());  
 app.use(cors({
-  origin: 'https://67d6930f7a0d6331128eaadc--remarkable-bunny-673cb8.netlify.app',  
+  origin: 'https://67d6aa08d38ae1acf8d70fe3--remarkable-bunny-673cb8.netlify.app',  
   methods: 'GET,POST,PUT,DELETE',
   allowedHeaders: 'Content-Type,Authorization',
   credentials: true
