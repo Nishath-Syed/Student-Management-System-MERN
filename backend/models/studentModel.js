@@ -14,7 +14,7 @@ const studentSchema = new mongoose.Schema({
   fatherName: { type: String, required: true },
   fatherPhone: { type: String, required: true },
   gradeLevel: { type: String, required: true },
-  profilePic: { type: String, required: false }, // URL or path to profile image
+  profilePic: { type: String, required: false },
 });
 
 const Student = mongoose.model('Student', studentSchema);
