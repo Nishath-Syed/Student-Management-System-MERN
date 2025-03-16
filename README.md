@@ -20,11 +20,16 @@ This is a **Student Management System** developed using the **MERN stack** (Mong
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens) for secure login
-- **Styling**: CSS, Bootstrap (or any CSS framework you used)
+- **Styling**: TailwindCSS
 
 ## Installation
 
 ### Prerequisites:
 Make sure you have the following installed:
 - **Node.js**: [Download Node.js](https://nodejs.org/)
-
+Install the frontend and backend dependencies using npm
+ **npm install**
+Run the frontend:
+**npm run dev**
+Run the backend:
+**nodemon index.js**
