@@ -29,7 +29,7 @@ Make sure you have the following installed:
 - **Node.js**: [Download Node.js](https://nodejs.org/)
 
 
-Install the frontend and backend dependencies using npm
+Install the frontend and backend dependencies using 
  **npm install**
 
  
