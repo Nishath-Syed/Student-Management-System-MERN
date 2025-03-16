@@ -27,9 +27,15 @@ This is a **Student Management System** developed using the **MERN stack** (Mong
 ### Prerequisites:
 Make sure you have the following installed:
 - **Node.js**: [Download Node.js](https://nodejs.org/)
+
+
 Install the frontend and backend dependencies using npm
  **npm install**
+
+ 
 Run the frontend:
 **npm run dev**
+
+
 Run the backend:
 **nodemon index.js**
